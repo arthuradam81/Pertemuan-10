@@ -1,5 +1,3 @@
-# Program Daftar Nilai Mahasiswa Menggunakan Dictionary
-
 data = {}
 
 def tambah():
@@ -96,8 +94,6 @@ def cari():
     else:
         print(">>> Data tidak ditemukan\n")
 
-
-# Main Loop
 while True:
     print("""
 ================ MENU ================
